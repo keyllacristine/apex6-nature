@@ -7,8 +7,8 @@ Aplicação web desenvolvida para otimizar a gestão comercial, o controle de es
 ## Links do Projeto e Infraestrutura
 
 * **Aplicação em Produção (Vercel):** https://apex6-nature-cosmetics.vercel.app/
-* **Projeto Supabase (Dashboard):** `https://supabase.com/dashboard/project/<project-ref>` *(substitua pelo ID do seu projeto)*
-* **API Endpoint (Supabase URL):** `https://<project-ref>.supabase.co`
+* **Projeto Supabase (Dashboard):** https://supabase.com/dashboard/project/oqofdwlnxfxtwpppihbz *(substitua pelo ID do seu projeto)*
+* **API Endpoint (Supabase URL):**  https://oqofdwlnxfxtwpppihbz.supabase.co
 * **Repositório Principal (Base):** https://github.com/keyllacristine/apex6-nature
 * **Repositório de Deploy (Fork):** https://github.com/LuisSantana625/apex6-nature-cosmetics
 
