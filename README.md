@@ -11,6 +11,7 @@ Aplicação web desenvolvida para otimizar a gestão comercial, o controle de es
 * **API Endpoint (Supabase URL):**  https://oqofdwlnxfxtwpppihbz.supabase.co
 * **Repositório Principal (Base):** https://github.com/keyllacristine/apex6-nature
 * **Repositório de Deploy (Fork):** https://github.com/LuisSantana625/apex6-nature-cosmetics
+* **Vídeo apresentação da aplicação:** https://drive.google.com/file/d/18_dLT93I7USJ83gfdG2FyvLK1LLDesM1/view?usp=drive_link
 
 ---
 
